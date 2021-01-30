@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">cribbage-v1</string>
+  <string name="beginner">Beginner</string>
+  <string name="novice">Novice</string>
+  <string name="intermediate">Intermediate</string>
+  <string name="advanced">Advanced</string>
+</resources>
